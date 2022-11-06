@@ -618,7 +618,7 @@ li{
 
 .promo {
   position: relative;
-  background-image: url('../img/just.webp');
+  background-image: url('.../img/just.webp');
   height: 60vh;
 }
 
